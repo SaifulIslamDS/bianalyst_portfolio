@@ -1,0 +1,4 @@
+
+Total Sales = SUM(fact_sales[sales])
+Total Profit = SUM(fact_sales[profit])
+Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
